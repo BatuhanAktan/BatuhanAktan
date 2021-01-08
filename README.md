@@ -24,7 +24,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="BatuhanAktan's GitHub Stats" src="https://github-readme-stat.BatuhanAktan.vercel.app/api?username=BatuhanAktan&show_icons=true&hide_border=true" />
+  <img align="left" alt="Batuhan Aktan's GitHub Stats" src="https://github-readme-stat.BatuhanAktan.vercel.app/api?username=BatuhanAktan&show_icons=true&hide_border=true" />
 
 </details>
 
