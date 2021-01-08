@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
+### Hi there, I'm Batuhan (He/him) 👋
 ### About me 🔭
-- 😄 Pronouns: He/Him
 - I’m a student 🎓 
 - I'm a Ski Instructor 🎿 
 - I'm a Programmer 💻
@@ -12,17 +9,16 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
 <br/>
-## 🌱 I’m currently learning 
+## I’m currently learning 🌱 
 - KIVYMD and Mobile App development 📱
 - Artificial Intelligence 🤖
 
-## 💬 Ask me about
+## Ask me about💬
 - Skiing, Python or Turkey
 
-## 📫 How to reach me:
+## How to reach me 📫 
 - Email: batuhanaktan@gmail.com 📧
 - LinkedIn: 
-- ⚡ Fun fact: ...
 <details>
   <summary>:zap: GitHub Stats</summary>
 
