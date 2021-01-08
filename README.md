@@ -11,7 +11,7 @@
 - Artificial Intelligence 🤖
 
 ## Ask me about💬
-- Skiing 🎿, Python 🐍 or Turkey 🇹🇷
+- Skiing 🎿, Python 🐍 or Turkey <span>&#127481;&#127479;</span>
 
 ## How to reach me 📫 
 - Email: batuhanaktan@gmail.com 📧
