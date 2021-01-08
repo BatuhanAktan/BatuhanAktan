@@ -24,14 +24,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JodyZ0203's GitHub Stats" src="https://github-readme-stat.jodyz0203.vercel.app/api?username=jodyz0203&show_icons=true&hide_border=true" />
+  <img align="left" alt="BatuhanAktan's GitHub Stats" src="https://github-readme-stat.BatuhanAktan.vercel.app/api?username=BatuhanAktan&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: GitHub Language Stats</summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodyz0203&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanAktan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
