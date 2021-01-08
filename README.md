@@ -15,7 +15,7 @@
 
 ## How to reach me 📫 
 - Email: batuhanaktan@gmail.com 📧
-- LinkedIn: <a href="http://batuhanaktan.tech">My Website</a>
+- LinkedIn: <a href="https://ca.linkedin.com/in/batuhan-aktan-9385ba198?trk=people-guest_people_search-card">LinkedIn</a>
 - Personal Website: <a href="http://batuhanaktan.tech">My Website</a>
 ## Skills 🤹‍
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
