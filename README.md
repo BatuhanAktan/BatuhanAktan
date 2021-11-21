@@ -1,5 +1,5 @@
 ### Hi there, I'm Batuhan (He/him) 👋
-#### Currently Looking for Summer Internship 2021 💻
+
 ### About me 🔭
 - I’m a student 🎓 
 - I'm a Ski Instructor 🎿 
