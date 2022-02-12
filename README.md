@@ -7,7 +7,7 @@
 - I'm a Programmer 💻
 
 ## I’m currently learning 🌱 
-- KIVYMD and Mobile App development 📱
+- Data Structures 📱
 - Artificial Intelligence 🤖
 
 ## Ask me about💬
