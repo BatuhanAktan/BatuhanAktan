@@ -7,8 +7,7 @@
 - I'm a Programmer 💻
 
 ## I’m currently learning 🌱 
-- Data Structures 📱
-- Artificial Intelligence 🤖
+- Restructuring PrioList to support Manifest v3
 
 ## Ask me about💬
 - Skiing 🎿, Python 🐍 or Turkey <span>&#x1F1F9;&#x1F1F7;</span>
