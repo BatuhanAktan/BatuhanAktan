@@ -6,8 +6,9 @@
 - I'm a Lifeguard ⛱
 - I'm a Programmer 💻
 
-## I’m currently learning 🌱 
+## What I am currently working on🌱 
 - Restructuring PrioList to support Manifest v3
+- Migrating Summar.ai into React.js
 
 ## Ask me about💬
 - Skiing 🎿, Python 🐍 or Turkey <span>&#x1F1F9;&#x1F1F7;</span>
