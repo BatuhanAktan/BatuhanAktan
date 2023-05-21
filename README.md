@@ -1,5 +1,6 @@
 ### Hi there, I'm Batuhan (He/him) 👋
 Summar.Ai Development Diary [Youtube](https://www.youtube.com/watch?v=K8DqfBIZME4&t=66s&ab_channel=BatuhanAktan)
+
 ### About me 🔭
 - I’m a student 🎓 
 - I'm a Ski Instructor 🎿 
@@ -8,7 +9,6 @@ Summar.Ai Development Diary [Youtube](https://www.youtube.com/watch?v=K8DqfBIZME
 
 ## What I am currently working on🌱 
 - Restructuring PrioList to support Manifest v3
-- Migrating Summar.ai into React.js
 
 ## Ask me about💬
 - Skiing 🎿, Python 🐍 or Turkey <span>&#x1F1F9;&#x1F1F7;</span>
