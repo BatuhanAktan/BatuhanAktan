@@ -8,7 +8,8 @@ Summar.Ai Development Diary [Youtube](https://www.youtube.com/watch?v=K8DqfBIZME
 - I'm a Programmer 💻
 
 ## What I am currently working on🌱 
-- Restructuring PrioList to support Manifest v3
+- Memorizeo Insights
+- Appficiency Document Distribution 
 
 ## Ask me about💬
 - Skiing 🎿, Python 🐍 or Turkey <span>&#x1F1F9;&#x1F1F7;</span>
