@@ -1,12 +1,3 @@
-### Hi there, I'm Batuhan (He/him) 👋
-Summar.Ai Development Diary [Youtube](https://www.youtube.com/watch?v=K8DqfBIZME4&t=66s&ab_channel=BatuhanAktan)
-
-### About me 🔭
-- I’m a student 🎓 
-- I'm a Ski Instructor 🎿 
-- I'm a Lifeguard ⛱
-- I'm a Programmer 💻
-
 ## What I am currently working on🌱 
 - Restructuring PrioList to support Manifest v3
 
@@ -28,8 +19,3 @@ Summar.Ai Development Diary [Youtube](https://www.youtube.com/watch?v=K8DqfBIZME
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanAktan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
