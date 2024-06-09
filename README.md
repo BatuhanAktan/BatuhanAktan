@@ -3,7 +3,11 @@
 
 ## Ask me about💬
 - Skiing 🎿, Python 🐍 or Turkey <span>&#x1F1F9;&#x1F1F7;</span>
+## What I am currently working on🌱 
+- Restructuring PrioList to support Manifest v3
 
+## Ask me about💬
+- Skiing 🎿, Python 🐍 or Turkey <span>&#x1F1F9;&#x1F1F7;</span>
 ## How to reach me 📫 
 - Email: batuhanaktan@gmail.com 📧
 - LinkedIn: <a href="https://ca.linkedin.com/in/batuhan-aktan-9385ba198?trk=people-guest_people_search-card">LinkedIn</a>
