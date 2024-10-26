@@ -1,11 +1,5 @@
-## What I am currently working on🌱 
-- Memorizeo Insights
-- Appficiency Document Distribution 
-
 ## Ask me about💬
 - Skiing 🎿, Python 🐍 or Turkey <span>&#x1F1F9;&#x1F1F7;</span>
-## What I am currently working on🌱 
-- Restructuring PrioList to support Manifest v3
 
 ## Ask me about💬
 - Skiing 🎿, Python 🐍 or Turkey <span>&#x1F1F9;&#x1F1F7;</span>
