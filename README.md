@@ -1,7 +1,4 @@
-## Ask me about💬
-- Skiing 🎿, Python 🐍 or Turkey <span>&#x1F1F9;&#x1F1F7;</span>
-
-## Ask me about💬
+ ## Ask me about💬
 - Skiing 🎿, Python 🐍 or Turkey <span>&#x1F1F9;&#x1F1F7;</span>
 ## How to reach me 📫 
 - Email: batuhanaktan@gmail.com 📧
